@@ -1,0 +1,19 @@
+{
+  "name": "cypres",
+  "version": "1.0.0",
+  "description": "E2E prueba",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  },
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "e2e"
+  ],
+  "author": "Alison Cunalema",
+  "license": "ISC"
+}
