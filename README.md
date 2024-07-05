@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 # DevsuTest
 Test QA Devsu
 QA Automation Engineer - Sector Financiero/Bancario - Devsu
@@ -15,6 +20,7 @@ Sitio web utilizado: https://www.demoblaze.com/
 Automatización E2E (Opción #1)
 
   1.-Agregar al carrito dos productos
+  
   2.-Visualizar el  carrito
   3.-Completar formulario de compra
   4.-Finalizar la compra
