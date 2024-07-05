@@ -1,0 +1,9 @@
+Conclusiones:
+
+He realizado un solo repositorio donde se encuentran los dos ejercicios.
+
+Para desarrollar el ejercicio de Apis correctamente tuve que probar la api en postman para determinar que claves retornaba en el json y poder hacer el expect en la prueba.
+
+Para el ejercicio de automatización me guié de la página web proporcionada.
+
+
